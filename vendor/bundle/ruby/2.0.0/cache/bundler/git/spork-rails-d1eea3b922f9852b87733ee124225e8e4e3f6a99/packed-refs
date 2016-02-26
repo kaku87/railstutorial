@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+5db525af2f917047057f546bc1ac2574d1c6b11e refs/heads/master
+30c65aa49e8cb32bdd8b5e06825c53ee81cd6e8f refs/heads/support-ruby2
+6fe7043476fa048aa98ccd9fadc49270e18bc4fc refs/tags/3.2.0
+d246bb1935f1465c1e148bfb391187a535afb44e refs/tags/3.2.1
